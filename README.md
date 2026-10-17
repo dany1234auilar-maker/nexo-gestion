@@ -51,3 +51,4 @@ En desarrollo. Proyecto personal de aprendizaje, con mejoras continuas en funcio
 ## Objetivo
 
 Aplicar y fortalecer mis conocimientos de Python mediante el desarrollo de una herramienta práctica para pequeños comercios.
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/14b68490-239f-43b3-9de5-af8539512fb7" />
