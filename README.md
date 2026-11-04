@@ -68,3 +68,8 @@ Actualmente continúo aprendiendo y mejorando mis conocimientos de Python.
 
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/b2dae2cb-3b0a-48b9-8d3b-5e9b1ab93557" />
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/401d57f8-6489-4eaa-abf0-820b2068ad05" />
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/292644b5-8ced-4779-8833-f5c2c35cb78c" />
+
