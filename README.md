@@ -1,54 +1,70 @@
 # Nexo Gestión
 
-Aplicación de escritorio desarrollada en Python para la gestión comercial de pequeños negocios.
+**Sistema de gestión comercial desarrollado como proyecto de aprendizaje en Python.**
 
-El proyecto permite administrar productos, controlar el inventario, registrar ventas y generar comprobantes en PDF.
-
-## Tecnologías utilizadas
-
-- Python
-- SQLite
-- Tkinter
-- ttkbootstrap
-- ReportLab
+Nexo Gestión es una aplicación de escritorio pensada para ayudar a pequeños comercios a administrar sus productos, ventas e inventario desde una interfaz sencilla y organizada.
 
 ## Funcionalidades
 
-- Registro y administración de productos.
-- Control de precios y stock.
-- Búsqueda de productos.
-- Registro e historial de ventas.
-- Descuento automático del stock al registrar una venta.
-- Consulta de ventas y sus detalles.
+- Panel principal con resumen del negocio.
+- Registro, edición y eliminación de productos.
+- Control de inventario y alertas de stock bajo.
+- Registro de ventas mediante un carrito de compras.
+- Historial de ventas.
+- Reportes de ingresos.
 - Generación de comprobantes en PDF.
-- Reportes de ventas.
+- Configuración de los datos del negocio.
 
-## Instalación
+## Herramientas utilizadas
 
-1. Instalar Python en la computadora.
-2. Descargar o clonar este repositorio.
-3. Abrir una terminal en la carpeta del proyecto.
-4. Instalar las dependencias:
+- Python: lenguaje utilizado para desarrollar la aplicación.
+- Tkinter y ttkbootstrap: creación de la interfaz gráfica.
+- SQLite: almacenamiento de los datos.
+- ReportLab: generación de documentos PDF.
 
-```bash
-pip install -r requirements.txt
-```
+## Instalación y ejecución
 
-5. Ejecutar la aplicación:
+1. Clonar el repositorio:
 
-```bash
-python main.py
-```
+   ```bash
+   git clone https://github.com/dany1234auilar-maker/nexo-gestion.git
+   ```
 
-## Base de datos
+2. Entrar en la carpeta:
 
-La aplicación utiliza SQLite y crea las tablas necesarias mediante `base_datos.py`. La base de datos `nexo.db` se genera localmente al iniciar la conexión, si todavía no existe.
+   ```bash
+   cd nexo-gestion
+   ```
 
-## Estado del proyecto
+3. Instalar las dependencias:
 
-En desarrollo. Proyecto personal de aprendizaje, con mejoras continuas en funcionalidades, diseño y corrección de errores.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Objetivo
+4. Ejecutar:
 
-Aplicar y fortalecer mis conocimientos de Python mediante el desarrollo de una herramienta práctica para pequeños comercios.
-<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/14b68490-239f-43b3-9de5-af8539512fb7" />
+   ```bash
+   python main.py
+   ```
+
+## Archivos principales
+
+- `main.py`: aplicación principal.
+- `base_datos.py`: funciones relacionadas con la base de datos.
+- `requirements.txt`: dependencias del proyecto.
+
+## Sobre el proyecto
+
+Nexo Gestión es un proyecto personal realizado durante mi proceso de aprendizaje de programación.
+
+Su desarrollo me permitió acercarme a la creación de aplicaciones de escritorio, interfaces gráficas, almacenamiento de información y generación de documentos.
+
+Actualmente continúo aprendiendo y mejorando mis conocimientos de Python.
+
+---
+
+**Proyecto personal de aprendizaje.**
+
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/b2dae2cb-3b0a-48b9-8d3b-5e9b1ab93557" />
