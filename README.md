@@ -37,12 +37,13 @@ Nexo Gestión es una aplicación de escritorio pensada para ayudar a pequeños c
    ```
 
 3. Instalar las dependencias:
+   
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Ejecutar:
+5. Ejecutar:
 
    ```bash
    python main.py
